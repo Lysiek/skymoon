@@ -31,3 +31,25 @@
 
 en:
   hello: "Hello world"
+  layouts:
+    application:
+      title: "Skymoon"
+
+    header:
+
+    footer:
+
+  static_pages:
+    home:
+      title: "Home"
+
+    help:
+      title: "Help"
+
+    about:
+      title: "About"
+
+    contact:
+      title: "Contact"
+
+
